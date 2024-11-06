@@ -5,9 +5,9 @@ This project aims to maintain a list of research papers related to the field of 
 
 |Year |  Publication  |  Title   |
 |:--------|:--------|:--------:|
-| 2024 | AAAI | [Deep quantum error correction (Choukroun, Y. and L. Wolf. 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/27756)  |
+| 2024 | AAAI | [Deep quantum error correction (Choukroun, Y. and L. Wolf 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/27756)  |
 | 2023 | NeurIPS | [Discovering Quantum Error Correcting Codes with Deep Reinforcement Learning (Olle, J., et al. 2020)](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_83.pdf)  |
-| 2020 | AAAI | [Multi-Modality Information Fusion for Radiomics-based Neural Architecture Search(Peng et al. 2020)](https://arxiv.org/abs/2007.06002)  <br>*accepted at MICCAI 2020*  |
-| 2020 | AAAI | [Modeling Task-based fMRI Data via Deep Belief Network with Neural Architecture Search(Qiang et al. 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0895611120300501)  <br>*accepted at Computerized Medical Imaging and Graphics*  |
-| 2020 | AAAI | [AdaEn-Net: An Ensemble of Adaptive 2D-3D Fully Convolutional Networks for Medical Image Segmentation(Baldeon Calisto and Lai-Yuen. 2020)](https://www.sciencedirect.com/science/article/pii/S0893608020300848)  <br>*accepted at Neural Networks*  |
-| 2020 | AAAI | [AutoSegNet: An Automated Neural Network for Image Segmentation(Xu et al. 2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9095283)  <br>*accepted at IEEE Access*  |
+| 2020 | Nature | [Quantum error correction of a qubit encoded in grid states of an oscillator (Campagne-Ibarcq, Philippe, et al. 2020)](https://www.nature.com/articles/s41586-020-2603-3)  |
+| 2023 | Nature | [Suppressing quantum errors by scaling a surface code logical qubit (Google Quantum AI 2023)](https://www.nature.com/articles/s41586-022-05434-1)  |
+| 2023 | Nature | [Real-time quantum error correction beyond break-even (Sivak, V. V., et al. 2023)](https://www.nature.com/articles/s41586-023-05782-6)  |
+| 2024 | Nature | [High-threshold and low-overhead fault-tolerant quantum memory (Bravyi, Sergey, et al. 2024)](https://www.nature.com/articles/s41586-024-07107-7)  |
