@@ -11,4 +11,7 @@ This project aims to maintain a curated list of research papers related to the f
 | 2023 | Nature | [Suppressing quantum errors by scaling a surface code logical qubit (Google Quantum AI. 2023)](https://www.nature.com/articles/s41586-022-05434-1)  |
 | 2023 | Nature | [Real-time quantum error correction beyond break-even (Sivak, V. V., et al. 2023)](https://www.nature.com/articles/s41586-023-05782-6)  |
 | 2024 | Nature | [High-threshold and low-overhead fault-tolerant quantum memory (Bravyi, Sergey, et al. 2024)](https://www.nature.com/articles/s41586-024-07107-7)  |
+| 2024 | PRL    | Quantum resource theory of coding for error correction |
+| 2024 | PRL    | Optimization Tools for Distance-Preserving Flag Fault-Tolerant Error Correction |
 | 2013 | arXiv | [Entanglement and Quantum Error Correction with Superconducting Qubits (Reed, Matthew. 2013)](https://arxiv.org/abs/1311.6759)  |
+
