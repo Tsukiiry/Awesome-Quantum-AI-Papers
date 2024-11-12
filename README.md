@@ -18,3 +18,4 @@ This project aims to maintain a curated list of research papers related to the f
 | 2024 | PRL    | [Optimization Tools for Distance-Preserving Flag Fault-Tolerant Error Correction (Pato B, Tansuwannont T, Huang S, et al. 2024)](https://github.com/Tsukiiry/Awesome-Quantum-AI-Papers/blob/main/PRXQuantum_Optimization%20Tools%20for%20Distance-Preserving%20Flag%20Fault-Tolerant%20Error%20Correction.pdf) |
 | 2013 | arXiv | [Entanglement and Quantum Error Correction with Superconducting Qubits (Reed, Matthew. 2013)](https://arxiv.org/abs/1311.6759)  |
 | 2024 | IEEE Transactions on Consumer Electronics | [Quantum Error Correction Codes in Consumer Technology: Modelling and Analysis (V. S. Thakur, A. Kumar, J. Das, K. Dev and M. Magarini. 2024)](https://ieeexplore.ieee.org/abstract/document/10643222) |
+| 2023 |  DAC | [Hybrid Gate-Pulse Model for Variational Quantum Algorithms (Zhiding L, Song H, et al. 2023) ](https://arxiv.org/pdf/2212.00661) |
