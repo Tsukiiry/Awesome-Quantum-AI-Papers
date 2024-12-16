@@ -12,6 +12,7 @@ This project aims to maintain a curated list of research papers related to the f
 | 2023 | Nature | [Real-time quantum error correction beyond break-even (Sivak, V. V., et al. 2023)](https://www.nature.com/articles/s41586-023-05782-6)  |
 | 2023 | Nature | [Beating the break-even point with a discrete-variable-encoded logical qubit (Ni, Z., Li, S., Deng, X. et al. 2023)](https://www.nature.com/articles/s41586-023-05784-4)  |
 | 2024 | Nature | [High-threshold and low-overhead fault-tolerant quantum memory (Bravyi, Sergey, et al. 2024)](https://www.nature.com/articles/s41586-024-07107-7)  |
+| 2024 | Nature | [Quantum error correction below the surface code threshold (Google Quantum AI and Collaborators. 2024)](https://www.nature.com/articles/s41586-024-08449-y)  |
 | 2020 | Nature Physics | [Repeated quantum error detection in a surface code (Andersen, C.K., Remm, A., Lazar, S., et al. 2020)](https://www.nature.com/articles/s41567-020-0920-y)  |
 | 2024 | Nature Physics | [Complexity and order in approximate quantum error-correcting codes (Yi, Jinmin, et al. 2024)](https://www.nature.com/articles/s41567-024-02621-x)  |
 | 2024 | PRL    | [Quantum resource theory of coding for error correction (Wang D S, Liu Y D, Wang Y J, et al. 2024)](https://github.com/Tsukiiry/Awesome-Quantum-AI-Papers/blob/main/PhysRevA_Quantum%20resource%20theory%20of%20coding%20for%20error%20correction.pdf) |
